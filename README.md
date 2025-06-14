@@ -6,7 +6,7 @@ A clean and responsive **Hospital Website Template** built using **HTML**, **CSS
 
 ## 🌐 Live Demo
 
-🔗 [View Live Website](https://your-deployed-site-link.com)
+🔗 [View Live Website](https://luffythecap.github.io/surjicare/)
 
 ---
 
