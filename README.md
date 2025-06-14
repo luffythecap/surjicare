@@ -49,5 +49,4 @@ A clean and responsive **Hospital Website Template** built using **HTML**, **CSS
 
 ---
 
-## 📁 Folder Structure
 
